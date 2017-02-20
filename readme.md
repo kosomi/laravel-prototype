@@ -63,7 +63,7 @@ composer update<br>
         "mews/purifier": "^2.0"<br>
 <br>
 <br>
-=================================================================================================<br>
+===========================================================================<br>
 <br>
 composer require "laravelcollective/html":"^5.3.0"<br>
 composer require mews/purifier<br>
